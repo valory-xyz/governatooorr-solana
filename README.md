@@ -12,3 +12,9 @@ Governatooorr's Solana deployment uses [Autonolas](https://olas.network/), the [
 * [Solana transaction settlement skill](https://github.com/valory-xyz/governatooorr/tree/main/packages/valory/skills/solana_transaction_settlement_abci)
 * [Solana Open AEA plugin](https://github.com/valory-xyz/open-aea/tree/main/plugins/aea-ledger-solana)
 * [Autonolas registries Solana integration](https://github.com/valory-xyz/autonolas-registries/tree/main/integrations/solana): registries for components, agents and services of the autonolas-v1 protocol in its Solana deployment.
+
+# Governatoorr Solana instance deployment
+
+An instance has been deployed in mainnet, the service owner being the address [deE9943tv6GqmWRmMgf1Nqt384UpzX4FrMvKrt34mmt](https://explorer.solana.com/address/deE9943tv6GqmWRmMgf1Nqt384UpzX4FrMvKrt34mmt). The registration transaction can be seen [here]()
+
+The service operation is governed by a 3-out of-4 multisig [link]()
