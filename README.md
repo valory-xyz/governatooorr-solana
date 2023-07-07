@@ -41,4 +41,6 @@ Once the Governatooorr service is created, these are the steps that were require
 - [Registration of agent instances](https://solscan.io/tx/5Mdju6f6uqopdjtJswsGmW6A2C1gb55SpLRFZ5MSkAQKg8YfzfE5EUf6jSkuideHSAG7v22hsN7whMjNEEbmN1EM);
 - [Service deployment](https://solscan.io/tx/5yNhFGMKvM6ioySEY8AccmrJJ63FQThoD8wnx4mbtBKcS3EN3FpdJZK6JKbgoR4GDNANC6GwydgLR94E7DRHStNt).
 
+The script for creating a service and managing all the steps up to its deployment can be found [here](https://github.com/valory-xyz/autonolas-registries/blob/main/integrations/solana/scripts/mainnet_service_management.js).
+
 Service Registry Solana program development and deployment guidelines can be observed in more details in its integration repository [here](https://github.com/valory-xyz/autonolas-registries/tree/main/integrations/solana).
